@@ -1,0 +1,5 @@
+name: PaperRegistryEnchantment
+version: '${version}'
+main: me.mrdoc.minecraft.test.paperregistryenchantment.Core
+bootstrapper: me.mrdoc.minecraft.test.paperregistryenchantment.CoreBootstrapper
+api-version: '1.20'
